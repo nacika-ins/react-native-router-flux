@@ -50,7 +50,9 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "mobx": "^4.3.0",
+    "mobx-react": "^5.1.2",
   },
   "jest": {
     "preset": "react-native",
