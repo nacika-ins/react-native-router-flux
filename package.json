@@ -18,8 +18,6 @@
   },
   "dependencies": {
     "lodash.isequal": "^4.5.0",
-    "mobx": "^4.3.0",
-    "mobx-react": "^5.1.2",
     "opencollective": "^1.0.3",
     "path-to-regexp": "^2.1.0",
     "prop-types": "^15.6.0",
